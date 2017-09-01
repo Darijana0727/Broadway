@@ -40,3 +40,12 @@ p {
   font-weight: bold;
   color: white;
 }
+footer {
+  color: white;
+  background-color:dimgray;
+  text-align: left;
+}
+.copyright {
+  font-family: Helvetica;
+  font-size: 11px;
+}
